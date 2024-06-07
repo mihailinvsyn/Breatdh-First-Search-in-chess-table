@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/images">
+        <file>knight.png</file>
+        <file>queen.png</file>
+        <file>rook.png</file>
+        <file>knight.ico</file>
+    </qresource>
+</RCC>
